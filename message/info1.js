@@ -17,6 +17,7 @@ return`
 *│*   Yogi PW
 *│*   Hexagon
 *│*   Dttaz
+*│*   Vells&Deva
 *│*
 *│▸* FEATURE  BY  
 *│*   Decode Denpa
@@ -27,6 +28,7 @@ return`
 *│*   X-Dev Team
 *│*   Yudha perdana
 *│*   Xchilds
+*│*   Vells&Deva
 *│*
 *╰────────────[*`
 }
